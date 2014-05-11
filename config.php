@@ -1,5 +1,5 @@
 <?php
 
-define('RACINE', '/');
+define('RACINE', '');
 
 ?>
