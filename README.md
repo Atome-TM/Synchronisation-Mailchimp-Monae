@@ -12,6 +12,8 @@ Aucune base de données n'est nécessaire.
 
 Avant de lancer l'application dans un navigateur, pensez à aller faire un tour dans le fichier **config.php** et de modifier la constante indiquant le chemin "racine" de votre installation.
 
+Si les paramètres ne s'enregistrent pas, pensez à donner les droits en écriture au dossier "data", et à tous ses fichiers.
+
 Pour faire fonctionner l'application vous aurez besoin :
 
 - De votre clé API Mailchimp (<a href="http://kb.mailchimp.com/article/where-can-i-find-my-api-key/" target="_blank">Où trouver cette clé ?</a>)
