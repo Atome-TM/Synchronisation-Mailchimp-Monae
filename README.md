@@ -45,6 +45,6 @@ Pour savoir ce que vous pouvez faire ou pas avec mon outil, voici quelques liens
 - [Article WIkipedia](http://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU)
 - [Guide rapide de la GPLv3](http://www.gnu.org/licenses/quick-guide-gplv3.html)
 
-### Copyright
+### Crédits
 
 2014 - Thomas Moreira - www.thomasmoreira.fr
